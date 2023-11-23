@@ -11,12 +11,7 @@ public class Gun : MonoBehaviour
     [SerializeField] private float fireRate;
     [SerializeField] private float startVelocity;
 
-    private float timer;
-    
-    private void Start()
-    {
-        timer = fireRate;
-    }
+    private float timer = 1f;
 
     // Update is called once per frame
     void Update()
