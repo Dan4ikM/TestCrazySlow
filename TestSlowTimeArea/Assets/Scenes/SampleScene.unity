@@ -224,7 +224,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.1
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalPosition.y
@@ -236,19 +236,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.32908875
+      value: 0.34202018
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.94429904
+      value: 0.9396927
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -260,11 +260,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 141.573
+      value: 140
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715751, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: fireRate
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715751, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: startVelocity
@@ -373,7 +373,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.42
+      value: -7
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalPosition.y
@@ -385,19 +385,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9423142
+      value: 0.9396927
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.33472964
+      value: 0.3420201
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -409,11 +409,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715750, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 39.112
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715751, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: fireRate
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8284586044424715751, guid: 7d15f2a029bcc32479d2bc9dd0bce6ff, type: 3}
       propertyPath: startVelocity
